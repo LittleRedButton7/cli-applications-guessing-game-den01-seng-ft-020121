@@ -24,5 +24,3 @@ def run_guessing_game
     p "Sorry! The computer guessed #{num}"
   end
 end  
-
-run_guessing_game
